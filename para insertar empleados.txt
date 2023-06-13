@@ -1,0 +1,25 @@
+para insertar empleados
+{
+  "id": 1,
+  "nombre": "Liliana",
+  "apellido": "Cochancela",
+  "telefono": "4040729",
+  "direccion": "Checa",
+  "fecha_nac": "2001-08-13",
+  "obeservacion": "activo",
+  "dias_trabajo": 16,
+  "sueldo": 0
+}
+
+para actualizar empleado calcula el sueldo de acuerdo a los parametros estaclecidos
+{
+  "id": 1,
+  "nombre": "Liliana",
+  "apellido": "Cochancela",
+  "telefono": "4040729",
+  "direccion": "Checa",
+  "fecha_nac": "2001-08-13",
+  "obeservacion": "activo",
+  "dias_trabajo": 16,
+  "sueldo": 0
+}
